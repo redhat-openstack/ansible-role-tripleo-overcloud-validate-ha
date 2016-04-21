@@ -1,0 +1,7 @@
+Code-Review+2: Raoul Scarazzini <rasca@redhat.com>
+Verified+1: Raoul Scarazzini <rasca@redhat.com>
+Submitted-by: Raoul Scarazzini <rasca@redhat.com>
+Submitted-at: Thu, 21 Apr 2016 06:09:13 -0400
+Reviewed-on: https://review.gerrithub.io/273819
+Project: redhat-openstack/ansible-role-tripleo-overcloud-validate-ha
+Branch: refs/heads/master
